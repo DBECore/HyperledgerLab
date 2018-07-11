@@ -1,4 +1,5 @@
-![DBE Header](readme/images/header.png")
+
+![DBE Header](readme/images/header.png)
 
 # DBE Core Hyperledger Lab
 
